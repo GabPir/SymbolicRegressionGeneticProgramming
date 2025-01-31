@@ -1,5 +1,7 @@
 # Symbolic Regression via Genetic Programming
 
+## Project for "Computational Intelligence" (Course 2024/2025)
+
 
 The program performs genetic regression to generate a function that approximates the target function, given a dataset of points X and corresponding function values yy. The algorithm dynamically adapts to the number of dimensions in the domain and follows the following evolutionary framework:
 <br>
